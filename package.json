@@ -4,7 +4,7 @@
   "description": "Backend Of SEC Project",
   "main": "dist/src/server.js",
   "scripts": {
-    "start": "concurrently \"cd frontend && npm start\" \"npm install && npm run dev\"",
+    "start": "concurrently \"cd frontend && npm start\" \"npm run dev\"",
   "dev": "ts-node-dev src/server.ts",
     "postinstall": "tsc",
     "deploy": "git add . && git commit && git push",
