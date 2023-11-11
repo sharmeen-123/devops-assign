@@ -1,0 +1,7 @@
+version : "1"
+services: 
+  nginx-react:
+    image: reactapp: latest
+    container_name: geb
+    build:
+      context: _

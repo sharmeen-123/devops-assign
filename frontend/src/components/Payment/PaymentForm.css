@@ -1,0 +1,25 @@
+
+.popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  /* background-color: rgba(255, 255, 255, 0.911); */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  backdrop-filter: blur(0.5px); /* change the value to adjust the level of blur */
+  z-index: 0;
+  
+}
+
+.popup-inner {
+  background-color: #ffffff;
+  /* padding: 20px; */
+  border-radius: 5px;
+  text-align: center;
+  border-radius: 1rem;
+  /* box-shadow: gray; */
+  border: 2px solid rgb(226, 225, 225);;
+}

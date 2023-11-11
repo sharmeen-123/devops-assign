@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0fbd7c2f.css",
+    "main.js": "/static/js/main.bd29e056.js",
+    "static/js/787.533bf0a2.chunk.js": "/static/js/787.533bf0a2.chunk.js",
+    "static/media/shift.png": "/static/media/shift.5d3c80c1a42bd134bfbe.png",
+    "static/media/cost.png": "/static/media/cost.9277d8a0f9882e99e2ab.png",
+    "static/media/electric-scooter.png": "/static/media/electric-scooter.2241e9fa62123c86a519.png",
+    "static/media/logo.png": "/static/media/logo.7f108634db186e408137.png",
+    "static/media/money-bag.png": "/static/media/money-bag.333b54eeed5a59075ebc.png",
+    "static/media/backgroundImage.jpg": "/static/media/backgroundImage.d78460c9b96a9858da2a.jpg",
+    "static/media/man.png": "/static/media/man.30450756982bbd72cf41.png",
+    "static/media/rejected.png": "/static/media/rejected.dd590a32b9f9dc9555ff.png",
+    "static/media/settings.png": "/static/media/settings.d1118b10847703602e82.png",
+    "static/media/money-exchange.png": "/static/media/money-exchange.da6595abce80ee0c2c31.png",
+    "static/media/pin.png": "/static/media/pin.8210970acff9062a268b.png",
+    "static/media/group.png": "/static/media/group.c382724b45e6dbe267f1.png",
+    "static/media/circle.png": "/static/media/circle.be2b8eebcdb61a066290.png",
+    "static/media/close.png": "/static/media/close.cf2ed332c8535e526c3c.png",
+    "index.html": "/index.html",
+    "main.0fbd7c2f.css.map": "/static/css/main.0fbd7c2f.css.map",
+    "main.bd29e056.js.map": "/static/js/main.bd29e056.js.map",
+    "787.533bf0a2.chunk.js.map": "/static/js/787.533bf0a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fbd7c2f.css",
+    "static/js/main.bd29e056.js"
+  ]
+}

@@ -1,0 +1,9 @@
+.MainDash {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  background-color: #f5f6fa;
+  border-radius:3%;
+  margin: 1.5%;
+  
+}

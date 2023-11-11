@@ -1,0 +1,123 @@
+.cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  font-size: 15px;
+}
+
+.Main {
+  width: 80%;
+  background-color: white;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  border-radius: 2rem;
+  /* text-align: center; */
+}
+.top-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.input {
+  width: 10vw;
+  height: 20px;
+  border-radius: 5px;
+  border: 2px solid green;
+  padding: 5px;
+  background-color: #bbfaca;
+  color: black;
+}
+.heading-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f0fcf3;
+  color: #338b47;
+  border-bottom: 1px solid gray;
+}
+.user-details {
+  display: flex;
+  justify-content: space-between;
+  overflow: scroll;
+}
+.icon {
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+}
+.name-container {
+  display: flex;
+  width: 40px;
+  align-items: center;
+  /* padding-left: 0px !important; */
+}
+.name-container2 {
+  display: flex;
+  flex-direction: column;
+  margin-left: 2px;
+}
+.email {
+  color: gray;
+  font-size: 10px;
+  top: -15px;
+  margin: 0%;
+}
+table {
+  padding-bottom: 10px;
+}
+th {
+  text-align: start;
+  background-color: #f0fcf3;
+  color: #338b47;
+  height: 40px;
+  padding: 5px;
+  border-bottom: 1px solid gray;
+  padding-left: 20px;
+}
+.name {
+  margin: 0%;
+}
+td {
+  border-bottom: 1px solid gray !important;
+  padding-left: 20px;
+}
+.update {
+  background-color: #bbfaca;
+  color: black;
+  text-align: center;
+  width: 5rem;
+  height: 20px;
+  border: 2px solid #bbfaca;
+  border-radius: 5px;
+}
+.delete {
+  background-color: #a61422;
+  color: white;
+  text-align: center;
+  width: 5rem;
+  height: 20px;
+  border: 2px solid #a61422;
+  border-radius: 5px;
+  margin-left: 12px;
+}
+.hello {
+  margin-right: 10px;
+  width: 20%;
+}
+.button-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  /* background-color: #a61422; */
+  width: 5vw;
+  /* justify-content: center; */
+}
+.icon {
+  height: 25px;
+  width: 25px;
+}

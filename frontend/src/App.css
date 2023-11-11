@@ -1,0 +1,27 @@
+.App {
+    height: 100vh;
+    display: grid;
+    background-color: #e5e7e6;
+    overflow: scroll;
+    /* grid-template-columns: 13rem auto; */
+  }
+  /* @media screen and (max-width: 1200px) {
+    .App {
+      grid-template-columns: 10% 50% auto;
+      overflow-y: scroll;
+    }
+  } */
+  
+  @media screen and (max-width: 768px) {
+    .App {
+      grid-template-columns: 1fr;
+      
+    }
+  }
+  main_div{
+    display: flex;
+    background-color: #f0fcf3;
+    overflow: scroll;
+    grid-template-columns: 15rem auto;
+  }
+  
